@@ -27,3 +27,34 @@ real	0m2,255s
 user	0m2,252s
 sys	0m0,001s
 
+#Con Singularity
+
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m52,747s
+user	0m52,532s
+sys	0m0,128s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	3m35,796s
+user	3m35,439s
+sys	0m0,131s
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,742s
+user	0m0,621s
+sys	0m0,077s
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	0m2,429s
+user	0m2,311s
+sys	0m0,073s
+
