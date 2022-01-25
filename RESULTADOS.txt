@@ -1,3 +1,4 @@
+#k-mer13.py
 Start
 Number of generated k-mers: 67108864
 Finish!
@@ -5,6 +6,8 @@ Finish!
 real	0m59,523s
 user	0m59,469s
 sys	0m0,003s
+
+#k-mer14.py
 Start
 Number of generated k-mers: 268435456
 Finish!
@@ -12,6 +15,8 @@ Finish!
 real	3m58,136s
 user	3m57,933s
 sys	0m0,003s
+
+#k-mer13 (C++)
 Start
 Number of generated k-mers: 67108864
 Finish!
@@ -19,6 +24,8 @@ Finish!
 real	0m0,565s
 user	0m0,563s
 sys	0m0,001s
+
+#k-mer14 (C++)
 Start
 Number of generated k-mers: 268435456
 Finish!
@@ -29,6 +36,7 @@ sys	0m0,001s
 
 #Con Singularity
 
+#k-mer13.py
 Start
 Number of generated k-mers: 67108864
 Finish!
@@ -36,6 +44,8 @@ Finish!
 real	0m52,747s
 user	0m52,532s
 sys	0m0,128s
+
+#k-mer14.py
 Start
 Number of generated k-mers: 268435456
 Finish!
@@ -43,6 +53,8 @@ Finish!
 real	3m35,796s
 user	3m35,439s
 sys	0m0,131s
+
+#-mer13 (C++)
 Start
 Number of generated k-mers: 67108864
 Finish!
@@ -50,6 +62,8 @@ Finish!
 real	0m0,742s
 user	0m0,621s
 sys	0m0,077s
+
+#-mer14 (C++)
 Start
 Number of generated k-mers: 268435456
 Finish!
