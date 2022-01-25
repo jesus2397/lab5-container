@@ -21,3 +21,7 @@ Ejecucion de k-mer13:
 Start
 Number of generated k-mers: 67108864
 Finish!
+
+real	0m0,649s
+user	0m0,549s
+sys	0m0,069s
